@@ -1,4 +1,4 @@
 test-repo
 =========
 
-testing
+This is an example of a testing markdown.
